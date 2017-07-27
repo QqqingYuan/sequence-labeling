@@ -10,3 +10,11 @@ sequence labeling implemented by tensorflow.
 ### Reference
 
 [Neural Architectures for Named Entity Recognition](https://arxiv.org/pdf/1603.01360v1.pdf)
+
+[sequence-labeling](https://github.com/chilynn/sequence-labeling)
+
+[ner-lstm](https://github.com/monikkinom/ner-lstm)
+
+[NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER)
+
+[CRF Example](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/crf)
